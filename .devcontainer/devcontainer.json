@@ -12,7 +12,14 @@
     "customizations": {
       "codespaces": {
         "openFiles": ["app/page.tsx"]
-      }
+	},
+	"vscode": {
+		"extensions": [
+			"dsznajder.es7-react-js-snippets",
+			"moalamri.inline-fold",
+			"bradlc.vscode-tailwindcss"
+		]
+	}
     },
     "portsAttributes": {
       "3000": {
